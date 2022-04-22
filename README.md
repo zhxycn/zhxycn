@@ -6,7 +6,7 @@
 ### Hi there 👋
 前天是小兔子，昨天是小鹿，今天是你。
 - 🔭 Work: Student
-- 📧 Email: [i@moefox.org](mailto:i@moefox.org)
+- 📧 Email: [i@owo.cab](mailto:i@owo.cab) & [i@moefox.org](mailto:i@moefox.org)
 
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=zhxycn&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
