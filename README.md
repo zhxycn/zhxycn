@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋
-前天是小兔子，昨天是小鹿，今天是你。
+若知是梦何须醒，不比真如一相会。
 - 🔭 Work: Student
 - 📧 Email: [i@owo.cab](mailto:i@owo.cab) & [i@moefox.org](mailto:i@moefox.org)
 
@@ -14,20 +14,8 @@
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhxycn&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Wakatime Week Stats
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhxycn)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Github Activity
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhxycn&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--
-**zhxycn/zhxycn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=zhxycn&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
