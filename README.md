@@ -1,12 +1,15 @@
 <p>
   <img src="https://weather-icon.journeyad.repl.co/@xian?v=1" align="right">
-  <img src="https://count.getloli.com/get/@zhxycn?theme=moebooru" alt="@zhxycn" />
+  <img src="https://count.getloli.com/get/@zhxycn?theme=moebooru" alt="@zhxycn">
 </p>
 
 ### Hi there 👋
 『若知是梦何须醒，不比真如一相会。』—— 神里绫华
 - 🔭 Work: Student
 - 📧 Email: [i@owo.cab](mailto:i@owo.cab) & [i@moefox.org](mailto:i@moefox.org)
+
+⬇️**点击下方图片留言**⬇️
+[![](https://chat.getloli.com/room/@zhxycn.github/svg?width=600&height=200&limit=20&theme=light&title=zhxycn@github:%20~&fontSize=10)](https://chat.getloli.com/room/@zhxycn.github?title=zhxy-CN%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=zhxycn&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
