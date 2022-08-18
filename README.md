@@ -6,7 +6,8 @@
 ### Hi there 👋
 『若知是梦何须醒，不比真如一相会。』—— 神里绫华
 - 🔭 Work: Student
-- 📧 Email: [i@owo.cab](mailto:i@owo.cab) & [i@moefox.org](mailto:i@moefox.org)
+- 📧 Email: [i@owo.cab](mailto:i@owo.cab)
+- 🌏 Website ![Status](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Server&url=https://owo.cab&logo=nginx)
 
 ⬇️**点击下方图片留言**⬇️
 
@@ -18,6 +19,7 @@
 [![](https://img.shields.io/badge/Ubuntu-22.04-4e9eee?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 
 [![](https://img.shields.io/badge/Python-33aadd?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
