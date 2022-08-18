@@ -35,6 +35,3 @@
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhxycn&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Wakatime Stats
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhxycn)](https://github.com/anuraghazra/github-readme-stats)
