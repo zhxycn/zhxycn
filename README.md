@@ -7,7 +7,6 @@
 『若知是梦何须醒，不比真如一相会。』—— 神里绫华
 - 🔭 Work: Student
 - 📧 Email: [i@owo.cab](mailto:i@owo.cab)
-- 🌏 Website ![Status](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Server&url=https://owo.cab&logo=nginx)
 
 ⬇️**点击下方图片留言**⬇️
 
