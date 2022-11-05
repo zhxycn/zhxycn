@@ -21,7 +21,7 @@
 
 [![](https://img.shields.io/badge/-Python-33AADD?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
