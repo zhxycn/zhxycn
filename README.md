@@ -1,22 +1,33 @@
 <p>
   <img src="https://weather-icon.journeyad.repl.co/@xian?v=1" align="right">
-  <img src="https://count.getloli.com/get/@zhxycn?theme=moebooru" alt="@zhxycn">
+  <img src="https://count.getloli.com/get/@zhxycn?theme=moebooru">
+</p>
+
+<p>
+    <img src="https://user-images.githubusercontent.com/99539499/210771654-4e261103-2ee3-43c3-8411-d81b6cbc3ab8.gif" align="right" height="360px" width="360px">
 </p>
 
 ### Hi there 👋
-- 🔭 Work: Student
-- 📧 Email: [i@owo.cab](mailto:i@owo.cab)
-
-⬇️**点击下方图片留言**⬇️  
-[![](https://chat.getloli.com/room/@zhxycn.github/svg?width=600&height=200&limit=20&theme=light&title=zhxycn@github:%20~&fontSize=10)](https://chat.getloli.com/room/@zhxycn.github?title=zhxy-CN%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
+```json
+{
+  "work": "student",
+  "contacts": {
+    "email": [
+      "i@owo.cab",
+      "zhxycn@proton.me"
+    ]
+  }
+}
+```
 
 #### Platform & Tools
-[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
-[![](https://img.shields.io/badge/Windows%20Server-2022-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
+[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/)
+[![](https://img.shields.io/badge/Windows%20Server-2022-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server/)
 [![](https://img.shields.io/badge/Ubuntu-22.04-4e9eee?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/IDE-WebStorm-1ECFFF?style=flat-square&logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 
 [![](https://img.shields.io/badge/-Python-33AADD?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
@@ -30,8 +41,6 @@
 [![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
-#### Github Stats
-[![info](https://github-readme-stats.vercel.app/api?username=zhxycn&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhxycn&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+Github Stats|Top Langs
+-|-
+[![info](https://github-readme-stats.vercel.app/api?username=zhxycn&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhxycn&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
