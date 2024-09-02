@@ -5,10 +5,7 @@
 </p>
 <p>
   <img src="https://count.getloli.com/get/@zhxycn?theme=moebooru">
-  <img src="https://weather-icon.journeyad.repl.co/@xian?v=1" align="right">
-</p>
-<p>
-  <img src="https://user-images.githubusercontent.com/99539499/210771654-4e261103-2ee3-43c3-8411-d81b6cbc3ab8.gif" align="right" height="300px" width="300px">
+  <img src="https://user-images.githubusercontent.com/99539499/210771654-4e261103-2ee3-43c3-8411-d81b6cbc3ab8.gif" align="right" height="150px" width="150px" align="right">
 </p>
 
 ### Hi there 👋
