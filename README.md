@@ -17,7 +17,8 @@
   },
   "fundings": {
     "afdian": "https://afdian.net/a/zhxycn"
-  }
+  },
+  "gpg": "DF5CBCF8B3A5354E1CE8"
 }
 ```
 
@@ -26,9 +27,9 @@
 [![](https://img.shields.io/badge/Windows%20Server-2022-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server/)
 [![](https://img.shields.io/badge/Ubuntu-24.04-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/24.04/)
 
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
-[![](https://img.shields.io/badge/IDE-WebStorm-1ECFFF?style=flat-square&logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
+[![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/WebStorm-1ECFFF?style=flat-square&logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 
 [![](https://img.shields.io/badge/-Python-33AADD?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
@@ -39,8 +40,10 @@
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-MySQL-1d365d?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+
+[![](https://img.shields.io/badge/-Amazon%20Web%20Services-f89628?style=flat-square&logo=amazonwebservices&logoColor=ffffff)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/-Cloudflare-f6821f?style=flat-square&logo=cloudflare&logoColor=ffffff)](https://www.cloudflare.com/)
 
 Github Stats|Top Langs
 -|-
