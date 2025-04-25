@@ -16,7 +16,7 @@
     "email": ["i@owo.cab", "zhxycn@proton.me"]
   },
   "fundings": {
-    "afdian": "https://afdian.net/a/zhxycn"
+    "afdian": "https://afdian.com/a/zhxycn"
   },
   "gpg": "DF5CBCF8B3A5354E1CE8"
 }
@@ -24,12 +24,13 @@
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/)
-[![](https://img.shields.io/badge/Windows%20Server-2022-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server/)
+[![](https://img.shields.io/badge/Windows%20Server-2025-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server/)
 [![](https://img.shields.io/badge/Ubuntu-24.04-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/24.04/)
 
-[![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/WebStorm-1ECFFF?style=flat-square&logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
+[![](https://img.shields.io/badge/GoLand-AD53FC?style=flat-square&logo=goland&logoColor=ffffff)](https://www.jetbrains.com/goland/)
 
 [![](https://img.shields.io/badge/-Python-33AADD?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
