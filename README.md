@@ -18,7 +18,7 @@
   "fundings": {
     "afdian": "https://afdian.com/a/zhxycn"
   },
-  "gpg": "DF5CBCF8B3A5354E1CE8"
+  "gpg": "02669D5B8009E3A13FC9"
 }
 ```
 
