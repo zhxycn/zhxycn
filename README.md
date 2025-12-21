@@ -14,7 +14,7 @@
 
 > A student who loves coding and open source.
 >
-> On the right is my virtual avatar; you can call her (or me) `xychan`.
+> On the right is my virtual character; you can call her (or me) `xychan`.
 
 **Catch me**
 
@@ -23,7 +23,7 @@
 [Twitter](https://twitter.com/zhxycn) ·
 [E-Mail](mailto:i@owo.cab)
 
-**Github Stats & Top Langs**
+**Github stats & Top langs**
 
 [![info](https://github-readme-stats.vercel.app/api?username=zhxycn&rank_icon=percentile&count_private=true&show_icons=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhxycn&layout=compact&langs_count=8&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
