@@ -18,8 +18,8 @@
 
 **Catch me**
 
-[Home Page](https://xychan.cc) ·
-[Blog](https://www.owo.cab) ·
+[Home](https://xychan.cc) ·
+[Blog](https://owo.cab) ·
 [Twitter](https://twitter.com/zhxycn) ·
 [E-Mail](mailto:i@owo.cab)
 
