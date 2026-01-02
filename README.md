@@ -5,7 +5,7 @@
 </p>
 <p>
   <img src="https://count.owo.cab/@zhxycn?name=zhxycn&theme=rule34&darkmode=auto">
-  <img src="https://github.com/user-attachments/assets/cdf42deb-7653-4b50-8467-8501c8be7dac" align="right" height="300px" align="right")
+  <img src="https://github.com/user-attachments/assets/cdf42deb-7653-4b50-8467-8501c8be7dac" align="right" height="300px" align="right">
 </p>
 
 ### Hi there 👋
