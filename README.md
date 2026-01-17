@@ -14,7 +14,9 @@
 
 > A student who loves coding and open source.
 >
-> On the right is my virtual character; you can call her (or me) `xychan`.
+> On the right is my virtual character, her name is `Sakarin`.
+>
+> You can also call her or me `xychan`.
 
 **Catch me**
 
