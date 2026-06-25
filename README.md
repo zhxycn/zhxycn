@@ -25,7 +25,7 @@
 ### *Network*
 
 **Public ASN**: [`AS219378`](https://bgp.tools/as/219378) ·
-**DN42 ASN**: `AS4242420111`
+**DN42 ASN**: [`AS4242420111`](https://gist.github.com/zhxycn/8cd564145e37bd84552e2b71a92de5a3)
 
 ### *Github stats & Top langs*
 
