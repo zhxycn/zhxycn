@@ -4,7 +4,6 @@
   </div>
 </p>
 <p>
-  <img src="https://count.owo.cab/@zhxycn?name=zhxycn&theme=rule34&darkmode=auto">
   <img src="https://github.com/user-attachments/assets/cdf42deb-7653-4b50-8467-8501c8be7dac" align="right" height="300px" align="right">
 </p>
 
@@ -22,9 +21,9 @@
 [Twitter](https://twitter.com/zhxycn) ·
 [E-Mail](mailto:i@owo.cab)
 
-### *Network*
+### *Sakarin Network*
 
-**Public ASN**: [`AS219378`](https://bgp.tools/as/219378) ·
+**IANA ASN**: [`AS219378`](https://bgp.tools/as/219378) ·
 **DN42 ASN**: [`AS4242420111`](https://gist.github.com/zhxycn/8cd564145e37bd84552e2b71a92de5a3)
 
 ### *Github stats & Top langs*
